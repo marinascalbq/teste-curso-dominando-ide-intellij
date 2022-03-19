@@ -2,7 +2,7 @@
 test intellij
 
 Na aba de projetos
-
+\n
 Alt + Insert: Para criar um novo arquivo
 
 Templates de código
